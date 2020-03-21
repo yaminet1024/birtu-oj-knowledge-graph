@@ -10,7 +10,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/oj-grpc-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/grpc-lib/pom.xml" />
       </set>
     </option>
   </component>

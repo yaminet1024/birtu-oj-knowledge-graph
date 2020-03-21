@@ -11,7 +11,7 @@
 
     <modules>
         <module>oj-knowledge-graph</module>
-        <module>grpc-lib</module>
+        <module>oj-grpc-lib</module>
     </modules>
 
 
