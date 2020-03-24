@@ -12,6 +12,7 @@
     <modules>
         <module>oj-knowledge-graph</module>
         <module>oj-grpc-lib</module>
+        <module>allsearch/nai</module>
     </modules>
 
 
